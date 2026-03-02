@@ -1,7 +1,7 @@
 # Sonoma Cache Cleaner – macOS Maintenance Suite
 
 <p align="center">
-  <img src="https://www.macfk.com/wp-content/uploads/2024/05/Sonoma-Cache-Cleaner.png" width="200" alt="Sonoma Cache Cleaner icon"/>
+  <img src="https://i0.wp.com/spider-mac.com/wp-content/uploads/2024/03/Sonoma-Cache-Cleaner.jpg?fit=1200%2C675&ssl=1" width="200" alt="Sonoma Cache Cleaner icon"/>
 </p>
 
 <p align="center">
